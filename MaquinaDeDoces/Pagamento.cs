@@ -144,7 +144,7 @@ namespace MaquinaDeDoces
             }
         }//fim do método Efetuar Pagamento
 
-        public void EfetuarPagamentoCartao(double entradaPagamento, double valorProduto, int codCartao, short bandeiraCartao)
+        public void EfetuarPagamentoCartao( double valorProduto, int codCartao, short bandeiraCartao)
         {
             ModificarCodigo++;
             ModificarValorTotal = valorProduto;

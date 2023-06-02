@@ -6,3 +6,11 @@ C:\Users\allan.ssilva4\source\repos\MaquinaDeDoces\MaquinaDeDoces\bin\Debug\Maqu
 C:\Users\allan.ssilva4\source\repos\MaquinaDeDoces\MaquinaDeDoces\bin\Debug\MaquinaDeDoces.pdb
 C:\Users\allan.ssilva4\source\repos\MaquinaDeDoces\MaquinaDeDoces\obj\Debug\MaquinaDeDoces.exe
 C:\Users\allan.ssilva4\source\repos\MaquinaDeDoces\MaquinaDeDoces\obj\Debug\MaquinaDeDoces.pdb
+C:\Users\eduardo.csilva52\source\repos\maquinaDeDocesTI17T\MaquinaDeDoces\bin\Debug\MaquinaDeDoces.exe.config
+C:\Users\eduardo.csilva52\source\repos\maquinaDeDocesTI17T\MaquinaDeDoces\bin\Debug\MaquinaDeDoces.exe
+C:\Users\eduardo.csilva52\source\repos\maquinaDeDocesTI17T\MaquinaDeDoces\bin\Debug\MaquinaDeDoces.pdb
+C:\Users\eduardo.csilva52\source\repos\maquinaDeDocesTI17T\MaquinaDeDoces\obj\Debug\MaquinaDeDoces.csproj.AssemblyReference.cache
+C:\Users\eduardo.csilva52\source\repos\maquinaDeDocesTI17T\MaquinaDeDoces\obj\Debug\MaquinaDeDoces.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduardo.csilva52\source\repos\maquinaDeDocesTI17T\MaquinaDeDoces\obj\Debug\MaquinaDeDoces.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.csilva52\source\repos\maquinaDeDocesTI17T\MaquinaDeDoces\obj\Debug\MaquinaDeDoces.exe
+C:\Users\eduardo.csilva52\source\repos\maquinaDeDocesTI17T\MaquinaDeDoces\obj\Debug\MaquinaDeDoces.pdb
